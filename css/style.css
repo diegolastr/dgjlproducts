@@ -14,8 +14,18 @@ body{
     background-repeat:repeat;
     background-size:5%;
     }
+     @media (max-width: 768px) {
+      #encabezado{
+      height: auto;
+      border-bottom: 2px;
+      display: block;
+      }
+      .navegacion a{
+      height: 30px;
+      }
+      }
     #title{
-      width:100%;
+      width:70%;
       font-size: 70px;
       font-style: initial;
       color: rgb(255, 255, 255);
@@ -25,7 +35,7 @@ body{
     margin:0px;
     line-height: 150px;
     
-    font-size: 25pt;
+    font-size: 35px;
     }
     #cuerpo{
       width: 90%;
