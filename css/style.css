@@ -265,11 +265,10 @@ body{
     display:table;
     }
     .parrafo3{
-
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva,
+     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva,
     Verdana, sans-serif;
     font-size: 14px;
-    padding-left:35%;
+    padding-left:25%;
   }
   .parrafo4{
     font-family:  sans-serif;
